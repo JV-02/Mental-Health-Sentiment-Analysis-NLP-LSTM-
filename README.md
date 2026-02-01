@@ -20,7 +20,7 @@ Python, NLTK, TensorFlow/Keras, Scikit-learn
 - Deep learning for text classification
 
 ## Files
-- mental_health_sentiment_analysis.ipynb
+- Mental_Health_Sentiment_Analysis.ipynb
 
 ## How to Run
 Install required libraries and run the notebook.
